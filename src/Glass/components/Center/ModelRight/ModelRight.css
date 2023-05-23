@@ -1,0 +1,17 @@
+.ModelRight-item {
+  position: relative;
+}
+
+.ModelRight-glasses {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  width: 50%;
+  opacity: 0.7;
+}
+.ModelRight-desc {
+  background-color: rgba(255, 166, 0, 0.501);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
